@@ -1,0 +1,230 @@
+@media (min-width: 320px) {
+    .first-section-left {
+        padding-top: 20px;
+    }
+
+    .talk-to-us-block h4 {
+        margin-bottom: 10px;
+    }
+    .second-section-left img {
+        margin-top: 40px;
+    }
+    .wrapper h2 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+    .discover-what-we-do-button {
+        margin: 35px 0;
+    }
+    .fourth-section {
+        padding: 15px;
+    }
+    .fourth-section h2 {
+        margin-top: 15px;
+    }
+    .column-block {
+        max-width: 280px;
+    }
+    .companies-number {
+        margin-top: 15px;
+    }
+    .sixth-section-left {
+        margin-top: 25px;
+    }
+    .view-hub-button {
+        margin: 20px 0;
+    }
+    .ready-to-switch_get-started-button {
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 10px 25px;
+    }
+    .logo-footer h3 {
+        font-size: 18px;
+    }
+
+    .footer-menu-item {
+        min-width: 161px;
+    }
+    .footer-menu {
+        grid-row-gap: 20px;
+    }
+    .footer-info {
+        margin-top: 15px;
+    }
+    .footer-menu-list-item a {
+        font-size: 14px;
+    }
+    .logo-icon {
+        width: 150px;
+    }
+    .third-section {
+        padding: 20px 0;
+    }
+}
+@media screen and (max-width: 767px) {
+    .wrapper {
+        padding: 0 10px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .wrapper {
+        max-width: 720px;
+    }
+    .mob-menu {
+        display: none;
+    }
+    .menu_login_expert-buttons {
+        display: flex;
+        align-items: center;
+    }
+    .logo-icon {
+        width: 70px;
+        height: 70px;
+    }
+    .footer-menu {
+        margin-top: 55px;
+        grid-column-gap: 66px;
+        flex-wrap: wrap;
+    }
+    .footer-info {
+        justify-content: space-between;
+        align-items: baseline;
+    }
+    .footer-menu-list {
+        grid-column-gap: 27px;
+    }
+    .ready-to-switch_get-started-button {
+        justify-content: space-around;
+    }
+}
+@media screen and (max-width: 991px) {
+    .mob-menu {
+        display: flex;
+    }
+
+    .menu_login_expert-buttons {
+        display: none;
+    }
+    .f-wrap {
+        flex-wrap: wrap;
+    }
+    .first-section-right img, .second-section-left img, .sixth-section-right img {
+        width: 100%;
+    }
+    .justify-content-center {
+        justify-content: center;
+    }
+}
+@media (min-width: 992px) {
+    .wrapper {
+        max-width: 960px;
+    }
+    .menu {
+        grid-column-gap: 10px;
+        margin-right: 5px;
+    }
+    .login-button {
+        margin-right: 5px;
+    }
+    .three-columns-block {
+        grid-column-gap: 50px;
+    }
+    .sixth-section {
+        padding: 30px 0;
+    }
+    .ready-to-switch_get-started-button {
+        padding: 40px;
+    }
+    .login-button, .expert-button, .talk-to-us-button, .discover-what-we-do-button, .view-hub-button, .get-started-button {
+        padding: 10px 15px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .wrapper {
+        max-width: 1140px;
+    }
+}
+@media (min-width: 1400px) {
+    .wrapper {
+        max-width: 1440px;
+    }
+    .p90-145 {
+        padding: 90px 145px;
+    }
+    .p0-145 {
+        padding: 0 145px;
+    }
+    .logo {
+        margin-right: 140px;
+    }
+    .menu {
+        grid-column-gap: 22px;
+        margin-right: 27px;
+    }
+    .first-section {
+        padding: 0 89px 0 145px;
+    }
+    .first-section-left {
+        padding-top: 70px;
+        max-width: 490px;
+        margin-right: 48px;
+    }
+    .talk-to-us-block h4 {
+        margin-bottom: 27px;
+    }
+    .second-section-left {
+        margin-right: 104px;
+    }
+    .second-section-right h2 {
+        margin-bottom: 33px;
+    }
+    .fz-lh-58 {
+        font-size: 58px;
+        line-height: 58px;
+    }
+    .third-section h2 {
+        margin-bottom: 82px;
+    }
+    .three-columns-block {
+        margin-bottom: 71px;
+    }
+    .fourth-section h2 {
+        font-weight: 400;
+        margin-bottom: 82px;
+    }
+    .companies-number {
+        margin-right: 137px;
+    }
+    .companies-logo div {
+        margin-bottom: 50px;
+    }
+    .sixth-section-left p {
+         margin: 0 117px 79px 0;
+    }
+    .ready-to-switch {
+        margin-right: 196px;
+    }
+    .ready-to-switch_get-started-button {
+        padding: 90px;
+    }
+    footer {
+        padding: 54px 145px 45px 145px;
+    }
+    .logo-footer h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .footer-menu {
+        grid-row-gap: 80px;
+    }
+    .footer-menu {
+        grid-column-gap: 78px;
+        grid-row-gap: 80px;
+    }
+
+}
+
